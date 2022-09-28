@@ -1,3 +1,3 @@
 # codecademy-magiceightball
 
-## The project takes a users input and returns a the magic eightballs answer.
+## The project takes a users input and returns the magic eightballs answer.
